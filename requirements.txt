@@ -1,0 +1,8 @@
+# Data processing
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Configuration & Environment
+python-dotenv>=1.0.0
+
+# Email/SMTP (Uses standard library, no external install required)
