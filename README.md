@@ -45,8 +45,9 @@ Mail_automation_program/
 ├── Colab_notebook_sender.ipynb
 │
 └── Local_python_sender
+```
 
-
+---
 
 ## 📧 Email Service Configuration
 
